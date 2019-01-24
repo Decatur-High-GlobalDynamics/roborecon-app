@@ -18,15 +18,15 @@ url: "https://decatur-high-globaldynamics.github.io/roborecon-app/" # the base h
 header:
     title: Team GlobalDynamics 4026 # the bold, bigger main text
     accent: 2019 Scouting System # the smaller, but informative accenting text
-    logo: "/images/paradox_logo_2016.png" # FULL path to image in the header 150x150 works well
+    logo: "/images/4026logo.png" # FULL path to image in the header 150x150 works well
 
 ### Footer Settings ###
 #######################
 # Customise to how you want
 footer:
-    facebook: "https://www.facebook.com/pages/FIRST-Robotics-Team-Paradox-2102/423421971073228"
-    twitter: "https://twitter.com/paradox2102"
-    github: "https://github.com/paradox2102/" 
+    facebook: "https://www.facebook.com/GlobalDyamics/"
+    twitter: "https://twitter.com/frc4026"
+    github: "https://github.com/Decatur-High-GlobalDynamics/" 
 
 
 ### Scouting System Settings ###
