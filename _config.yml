@@ -5,9 +5,9 @@
 ### Base Site settings ###
 ##########################
 
-title: Paradox Scout # site title, also used in the navbar
-email: webmaster@sdarobotics.org
-description: "A First Robotics Scouting Application built by Team Paradox 2102" # site description
+title: GlobalDynamics Scout # site title, also used in the navbar
+email: 4026scouting@gmail.com
+description: "A First Robotics Scouting Application built by Team Paradox 2102 and used by Team 4026" # site description
 baseurl: "/roborecon-app" # the subpath of your site, e.g. /blog
 url: "https://decatur-high-globaldynamics.github.io/roborecon-app/" # the base hostname & protocol for your site
 
@@ -16,8 +16,8 @@ url: "https://decatur-high-globaldynamics.github.io/roborecon-app/" # the base h
 #######################
 # Customise to how you want
 header:
-    title: Team Paradox 2102 # the bold, bigger main text
-    accent: 2018 Scouting System # the smaller, but informative accenting text
+    title: Team GlobalDynamics 4026 # the bold, bigger main text
+    accent: 2019 Scouting System # the smaller, but informative accenting text
     logo: "/images/paradox_logo_2016.png" # FULL path to image in the header 150x150 works well
 
 ### Footer Settings ###
@@ -35,7 +35,7 @@ footer:
 
 scout:
     teamkey: 4026
-    tbaApiKey: J9XyDSN69eZMHqanEDaevzAywDjxL9iyBYAQh2erLJJ9MtZVG60HsEYeKVwloFGe
+    tbaApiKey: RDRZz312LSbpkbR2vgGMsrICdg7BDO3CLNpV4VyvwS6oJFDckAamNCGF2vM9ngVP
     currentevent: 2019week0 # the Event key for the event you want to scout, can be found on TBA
     firebase:
         rooturl: https://paradox-scout-dc256.firebaseio.com/ # Address of Firebase Server
